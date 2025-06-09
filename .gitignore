@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.dylib
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Poetry
+poetry.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MacOS metadata
+.DS_Store
+
+# Logs and debug
+*.log
+*.out
+
+# Results / predictions
+*.csv
+*.tsv
+*.xlsx
+
+# System files
+Thumbs.db
+ehthumbs.db
