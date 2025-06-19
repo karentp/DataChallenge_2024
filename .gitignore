@@ -28,10 +28,6 @@ poetry.lock
 *.log
 *.out
 
-# Results / predictions
-*.csv
-*.tsv
-*.xlsx
 
 # System files
 Thumbs.db
